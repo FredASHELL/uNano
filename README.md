@@ -33,5 +33,11 @@ and...
 #
 `sudo chmod +x /usr/local/bin/unano`
 #
+Save - Ctrl-S
+Quit - Ctrl-Q
+Cursor movement - Arrow keys
+That's it!
+
+#
 
 Have fun! :)
