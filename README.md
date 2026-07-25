@@ -1,4 +1,4 @@
-# uNano
+# µNano
 A 50K text editor written in plain C.
 
 µNano
