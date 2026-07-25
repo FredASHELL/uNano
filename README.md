@@ -21,3 +21,17 @@ Features:
 * get out of the way
 
 That's it.
+
+# Quick Guide
+
+To make `unano` global, you need to run these commands (Unix):
+
+#
+`sudo cp unano /usr/local/bin/unano`
+#
+and...
+#
+`sudo chmod +x /usr/local/bin/unano`
+#
+
+Have fun! :)
