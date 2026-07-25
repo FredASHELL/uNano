@@ -1,21 +1,23 @@
 # µNano
-A 50K text editor written in plain C.
-
-µNano
------
-
-If small was smaller and worse.
 
 A tiny terminal text editor written in plain C.
 
-Features:
-- open files
-- edit text
-- save files
-- get out of the way
+No editor religion. No ecosystem. No ceremony.
 
-Non-features:
-- plugins
-- themes
-- syntax highlighting
-- a 200 MB runtime
+µNano is for when you just want to open a file, change some text, save it, and leave.
+
+It avoids:
+
+* the busy interface of modern editors
+* the steep learning curve of modal editors
+* the endless customization rabbit hole
+* the weight of full IDEs
+
+Features:
+
+* open files
+* edit text
+* save files
+* get out of the way
+
+That's it.
