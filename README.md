@@ -43,3 +43,7 @@ That's it!
 #
 
 Have fun! :)
+
+# DISCLAIMER
+
+µEdit has replaced this text editor. If you still use this, ok. Not my problem.
