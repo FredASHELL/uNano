@@ -33,7 +33,7 @@ and...
 #
 `sudo chmod +x /usr/local/bin/unano`
 #
-(Make sure you're in the `unano` directory before running these commands.)
+(Make sure you're in the `uNano` directory before you do anything.)
 #
 Save - Ctrl-S |
 Quit - Ctrl-Q |
